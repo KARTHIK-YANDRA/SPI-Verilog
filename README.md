@@ -19,3 +19,7 @@ Implemented SPI communication protocol using Verilog HDL for synchronous serial 
 - spi_slave.v
 - spi_top.v
 - spi_tb.v
+
+## Simulation Waveform
+
+![SPI Waveform](spi_waveform.jpeg)
