@@ -18,7 +18,6 @@ Implemented SPI communication protocol using Verilog HDL for synchronous serial 
 ## Project Files
 - spi_master.v
 - spi_slave.v
-- spi_top.v
 - spi_tb.v
 
 ## Simulation Waveform
