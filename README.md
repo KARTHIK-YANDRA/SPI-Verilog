@@ -22,4 +22,4 @@ Implemented SPI communication protocol using Verilog HDL for synchronous serial 
 
 ## Simulation Waveform
 
-![SPI Waveform](spi_waveform.jpeg)
+![SPI Waveform](spi.jpeg)
