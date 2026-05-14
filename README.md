@@ -5,6 +5,7 @@ Implemented SPI communication protocol using Verilog HDL for synchronous serial 
 
 ## Features
 - SPI master-slave communication
+- Full Duplex communication
 - Serial data transmission
 - Clock synchronization
 - Simulation verification
